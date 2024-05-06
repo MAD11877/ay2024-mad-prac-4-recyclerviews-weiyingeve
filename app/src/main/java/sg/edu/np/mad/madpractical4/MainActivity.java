@@ -62,7 +62,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
         // OnClickListener for Message Button
 //        btnMessage.setOnClickListener(new View.OnClickListener() {
 //            @Override
